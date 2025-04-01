@@ -25,7 +25,7 @@ product = "meditation-app-flet"
 company = "Flet"
 
 # copyright text to display in about app dialogs
-copyright = "Copyright (C) 2025 by Flet"
+copyright = "Copyright (C) 2025 by ...."
 
 [tool.flet.app]
 path = "src"
